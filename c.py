@@ -5,3 +5,4 @@ for _ in range(n):
   goods.append(s)
 goods = set(goods)
 print(len(goods))
+
